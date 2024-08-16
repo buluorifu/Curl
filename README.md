@@ -14,7 +14,7 @@
 ## 使用教程
 
 从浏览器里面以cURL(bash)格式复制
-<img src="/img/png1.png" alt="image" style="width:700px;height:700px;">
+<img src="/img/png1.png" alt="image" style="width:900px;height:900px;">
 
 然后放入curl转换工具里面
-<img src="/img/png2.png" alt="image" style="width:700px;height:700px;">
+<img src="/img/png2.png" alt="image" style="width:900px;height:900px;">
